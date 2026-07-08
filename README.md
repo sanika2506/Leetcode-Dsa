@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
@@ -27,4 +28,5 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
