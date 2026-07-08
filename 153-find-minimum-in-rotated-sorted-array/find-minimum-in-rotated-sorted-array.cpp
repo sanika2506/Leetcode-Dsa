@@ -5,6 +5,10 @@ public:
         int high = nums.size()-1;
         int ans = INT_MAX;
         while(low<=high){
+            if(nums[high]>nums[low]){
+                ans = min(ans,nums[low]);
+                break;
+            }
             int mid = (low + high)/2;
             if(nums[low]<=nums[mid]){
                 ans=min(ans,nums[low]);
