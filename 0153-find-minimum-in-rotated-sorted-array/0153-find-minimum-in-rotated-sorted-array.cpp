@@ -5,6 +5,7 @@ public:
         int high = nums.size()-1;
         int ans = INT_MAX;
         while(low<=high){
+            //if array is already sorted
             if(nums[high]>nums[low]){
                 ans = min(ans,nums[low]);
                 break;
