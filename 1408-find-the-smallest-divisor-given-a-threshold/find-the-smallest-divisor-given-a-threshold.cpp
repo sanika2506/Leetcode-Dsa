@@ -9,10 +9,7 @@ public:
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int low = 1;
-        int high = INT_MIN;
-        for(int i=0;i<nums.size();i++){
-            high = max(nums[i],high);
-        }
+        int high = *max_element(nums.begin(),nums.end());
         while(low<=high){
             int mid = (low + high)/2;
             if(sumofDays(nums,mid) <=threshold){
