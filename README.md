@@ -12,6 +12,7 @@
 | [0118-pascals-triangle](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -62,4 +65,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
