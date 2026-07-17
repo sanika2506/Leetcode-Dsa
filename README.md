@@ -23,6 +23,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,10 +80,12 @@
 | [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2540-minimum-common-value](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0414-third-maximum-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
