@@ -21,6 +21,7 @@
 | [0410-split-array-largest-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0566-reshape-the-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1260-shift-2d-grid) |
@@ -44,11 +45,13 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
