@@ -116,6 +116,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
@@ -136,8 +137,13 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0237-delete-node-in-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
