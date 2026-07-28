@@ -136,4 +136,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
