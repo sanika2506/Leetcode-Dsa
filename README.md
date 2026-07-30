@@ -89,6 +89,7 @@
 ## Math
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0410-split-array-largest-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
