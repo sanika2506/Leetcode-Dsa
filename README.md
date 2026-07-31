@@ -43,6 +43,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2540-minimum-common-value](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2540-minimum-common-value) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
 |  |
@@ -119,12 +120,14 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0410-split-array-largest-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +136,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -143,6 +147,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
