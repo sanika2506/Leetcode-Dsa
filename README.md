@@ -92,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -156,6 +157,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0237-delete-node-in-a-linked-list) |
 ## Counting Sort
@@ -169,6 +171,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
 ## Game Theory
