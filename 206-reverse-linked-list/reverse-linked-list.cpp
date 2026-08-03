@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
+        //bruteforce solution
         stack<int>st;
         ListNode* temp = head;
         while(temp!=NULL){
@@ -24,5 +25,16 @@ public:
             temp = temp->next;
         }
         return head;
+
+        // //optimal solution for the doubly linked list not for singly linked list
+        // ListNode* current = head;
+        // ListNode* last = NULL;
+        // while(current!=NULL){
+        //     last = current->back;
+        //     current->back = current->next;
+        //     current->next=last;
+        //     current=current->next;
+        // }
+        // return last->back;
     }
 };
