@@ -10,21 +10,34 @@
  */
 class Solution {
 public:
+    ListNode* reverse(ListNode* &head){
+        if(head==NULL || head->next == NULL){
+            return head;
+        }
+        ListNode* newHead = reverse(head->next);
+        ListNode* front = head->next;
+        front->next = head;
+        head->next = NULL;
+        return newHead;
+    }
     ListNode* reverseList(ListNode* head) {
-        //bruteforce solution
-        stack<int>st;
-        ListNode* temp = head;
-        while(temp!=NULL){
-            st.push(temp->val);
-            temp = temp->next;
-        }
-        temp = head;
-        while(temp!=NULL){
-            temp->val = st.top();
-            st.pop();
-            temp = temp->next;
-        }
-        return head;
+        // //bruteforce solution
+        // stack<int>st;
+        // ListNode* temp = head;
+        // while(temp!=NULL){
+        //     st.push(temp->val);
+        //     temp = temp->next;
+        // }
+        // temp = head;
+        // while(temp!=NULL){
+        //     temp->val = st.top();
+        //     st.pop();
+        //     temp = temp->next;
+        // }
+        // return head;
+
+        //recursive approach
+        return reverse(head);
 
         // //optimal solution for the doubly linked list not for singly linked list
         // ListNode* current = head;
