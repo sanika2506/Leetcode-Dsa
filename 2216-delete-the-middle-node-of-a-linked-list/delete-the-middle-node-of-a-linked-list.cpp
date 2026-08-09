@@ -11,38 +11,43 @@
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
-        //bruteforce solution
+        // //bruteforce solution
+        // if(head==NULL || head->next==NULL){
+        //     return NULL;
+        // }
+        // ListNode* temp  = head;
+        // int count = 0;
+        // while(temp!=NULL){
+        //     count++;
+        //     temp = temp->next;
+        // }
+        // int mid = count/2;
+        // temp = head;
+        // while(temp!=NULL){
+        //     mid--;
+        //     if(mid==0){
+        //         ListNode* middle = temp->next;
+        //         temp->next=temp->next->next;
+        //         delete middle;
+        //         break;
+        //     }
+        //     temp=temp->next;
+        // }
+        // return head;
+
+        //optimal solution using torroise and hair approach
         if(head==NULL || head->next==NULL){
             return NULL;
         }
-        ListNode* temp  = head;
-        int count = 0;
-        while(temp!=NULL){
-            count++;
-            temp = temp->next;
+        ListNode* slow = head;
+        ListNode* fast = head->next->next;
+        while(fast!=NULL && fast->next!=NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        int mid = count/2;
-        temp = head;
-        while(temp!=NULL){
-            mid--;
-            if(mid==0){
-                ListNode* middle = temp->next;
-                temp->next=temp->next->next;
-                delete middle;
-                break;
-            }
-            temp=temp->next;
-        }
+        ListNode* temp = slow->next;
+        slow->next = slow->next->next;
+        delete temp;
         return head;
-        // ListNode* slow = head;
-        // ListNode* fast = head->next->next;
-        // while(fast!=NULL && fast->next!=NULL){
-        //     slow = slow->next;
-        //     fast = fast->next->next;
-        // }
-        // ListNode* temp = slow->next;
-        // slow->next = slow->next->next;
-        // delete temp;
-        // return head;
     }
 };
