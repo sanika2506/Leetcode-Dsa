@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0074-search-a-2d-matrix) |
@@ -115,6 +116,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0141-linked-list-cycle) |
@@ -145,6 +147,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0410-split-array-largest-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
