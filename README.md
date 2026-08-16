@@ -220,6 +220,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -230,4 +231,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
