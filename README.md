@@ -173,6 +173,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -220,6 +221,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -239,4 +241,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0225-implement-stack-using-queues) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
