@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0118-pascals-triangle) |
@@ -96,6 +97,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -224,6 +227,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
@@ -251,5 +255,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
