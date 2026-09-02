@@ -15,6 +15,7 @@
 | [0118-pascals-triangle](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -47,6 +48,7 @@
 | [0141-linked-list-cycle](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
