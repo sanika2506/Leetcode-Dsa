@@ -21,6 +21,7 @@
 | [0228-summary-ranges](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0410-split-array-largest-sum) |
@@ -140,6 +141,7 @@
 | [0148-sort-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0876-middle-of-the-linked-list) |
