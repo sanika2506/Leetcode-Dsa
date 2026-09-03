@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
@@ -49,6 +50,7 @@
 | [0141-linked-list-cycle](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
@@ -124,6 +126,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -147,6 +150,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
@@ -173,6 +177,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
 | [1399-count-largest-group](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1399-count-largest-group) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -264,4 +269,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
