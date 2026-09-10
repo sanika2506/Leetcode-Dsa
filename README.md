@@ -120,6 +120,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
 | [1399-count-largest-group](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1399-count-largest-group) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
