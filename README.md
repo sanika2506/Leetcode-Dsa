@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -121,6 +122,7 @@
 | [0002-add-two-numbers](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
 | [1399-count-largest-group](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1399-count-largest-group) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -203,6 +205,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
