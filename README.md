@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0033-search-in-rotated-sorted-array) |
@@ -209,6 +210,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
@@ -300,4 +302,8 @@
 | ------- |
 | [0136-single-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0137-single-number-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
