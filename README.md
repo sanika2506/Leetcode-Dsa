@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0410-split-array-largest-sum) |
@@ -130,6 +131,7 @@
 | [0013-roman-to-integer](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
 | [1399-count-largest-group](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1399-count-largest-group) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -335,4 +337,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
