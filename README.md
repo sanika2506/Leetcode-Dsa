@@ -83,6 +83,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1260-shift-2d-grid) |
 ## Binary Search
@@ -127,6 +128,7 @@
 | [0009-palindrome-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
 | [1399-count-largest-group](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1399-count-largest-group) |
@@ -217,6 +219,7 @@
 | [0020-valid-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0344-reverse-string) |
@@ -305,6 +308,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0137-single-number-ii) |
 ## Trie
