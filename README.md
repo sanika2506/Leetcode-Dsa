@@ -92,6 +92,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -126,6 +127,7 @@
 | [0009-palindrome-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
 | [1399-count-largest-group](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1399-count-largest-group) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -325,4 +327,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
