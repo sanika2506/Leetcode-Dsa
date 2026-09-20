@@ -90,6 +90,7 @@
 | [0067-add-binary](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1260-shift-2d-grid) |
+| [3498-reverse-degree-of-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [0344-reverse-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0344-reverse-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
