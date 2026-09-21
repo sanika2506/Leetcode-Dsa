@@ -41,6 +41,7 @@
 | [0566-reshape-the-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0566-reshape-the-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0888-fair-candy-swap) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -177,6 +178,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -193,6 +195,7 @@
 | [0414-third-maximum-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0455-assign-cookies) |
 | [0888-fair-candy-swap](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0888-fair-candy-swap) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
