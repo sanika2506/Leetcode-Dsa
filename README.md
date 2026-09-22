@@ -69,6 +69,7 @@
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
 | [0888-fair-candy-swap](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0888-fair-candy-swap) |
@@ -220,6 +221,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0383-ransom-note) |
 | [1399-count-largest-group](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1399-count-largest-group) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -240,6 +242,7 @@
 | [0125-valid-palindrome](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0383-ransom-note) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3498-reverse-degree-of-a-string) |
