@@ -146,6 +146,7 @@
 | [0168-excel-sheet-column-title](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0509-fibonacci-number) |
 | [1399-count-largest-group](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1399-count-largest-group) |
@@ -293,6 +294,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0509-fibonacci-number) |
 ## Game Theory
