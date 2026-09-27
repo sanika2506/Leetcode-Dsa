@@ -254,6 +254,7 @@
 | [0344-reverse-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3498-reverse-degree-of-a-string) |
@@ -309,6 +310,7 @@
 | [0225-implement-stack-using-queues](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
