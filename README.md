@@ -24,6 +24,7 @@
 | [0162-find-peak-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
@@ -147,6 +148,7 @@
 | [0168-excel-sheet-column-title](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
@@ -158,6 +160,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
@@ -387,4 +390,20 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
