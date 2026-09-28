@@ -147,6 +147,7 @@
 | [0168-excel-sheet-column-title](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0509-fibonacci-number) |
