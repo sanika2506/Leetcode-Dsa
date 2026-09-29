@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3498-reverse-degree-of-a-string) |
@@ -149,6 +150,7 @@
 | [0171-excel-sheet-column-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
