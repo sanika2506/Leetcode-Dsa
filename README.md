@@ -99,6 +99,7 @@
 | [0258-add-digits](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1260-shift-2d-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
@@ -270,6 +271,7 @@
 | [0383-ransom-note](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3498-reverse-degree-of-a-string) |
@@ -328,6 +330,7 @@
 | [0503-next-greater-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
