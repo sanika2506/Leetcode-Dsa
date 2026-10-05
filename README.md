@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -190,6 +191,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -211,6 +213,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0217-contains-duplicate) |
@@ -406,6 +409,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0455-assign-cookies) |
 ## Enumeration
 |  |
@@ -427,4 +431,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0278-first-bad-version) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
