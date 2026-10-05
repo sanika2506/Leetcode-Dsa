@@ -42,6 +42,7 @@
 | [0503-next-greater-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0566-reshape-the-matrix) |
+| [0713-subarray-product-less-than-k](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0888-fair-candy-swap) |
 | [0907-sum-of-subarray-minimums](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0907-sum-of-subarray-minimums) |
@@ -122,6 +123,7 @@
 | [0367-valid-perfect-square](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0410-split-array-largest-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0713-subarray-product-less-than-k) |
 ## Counting
 |  |
 | ------- |
@@ -435,4 +438,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
