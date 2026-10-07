@@ -45,6 +45,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0888-fair-candy-swap) |
+| [0904-fruit-into-baskets](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -83,6 +84,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
 | [0888-fair-candy-swap](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0888-fair-candy-swap) |
+| [0904-fruit-into-baskets](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0904-fruit-into-baskets) |
 | [1399-count-largest-group](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1399-count-largest-group) |
 | [2540-minimum-common-value](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2540-minimum-common-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -448,5 +450,6 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
