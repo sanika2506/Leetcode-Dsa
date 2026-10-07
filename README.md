@@ -26,6 +26,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
@@ -120,6 +121,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -248,6 +250,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -449,6 +452,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
