@@ -48,6 +48,7 @@
 | [0888-fair-candy-swap](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -190,6 +191,7 @@
 | [0169-majority-element](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | [0414-third-maximum-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0455-assign-cookies) |
 | [0888-fair-candy-swap](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0888-fair-candy-swap) |
+| [0912-sort-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -267,6 +270,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -315,6 +319,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
 |  |
@@ -357,6 +362,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -456,4 +462,12 @@
 | [0713-subarray-product-less-than-k](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
