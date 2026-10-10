@@ -63,6 +63,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3731-find-missing-elements) |
 | [3912-valid-elements-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3912-valid-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@
 | [2540-minimum-common-value](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2540-minimum-common-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
