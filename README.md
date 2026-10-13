@@ -63,6 +63,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3731-find-missing-elements) |
 | [3912-valid-elements-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3912-valid-elements-in-an-array) |
 ## Hash Table
@@ -244,6 +245,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -253,6 +255,7 @@
 | [0455-assign-cookies](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
