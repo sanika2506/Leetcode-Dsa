@@ -61,6 +61,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1901-find-a-peak-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -142,6 +143,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
@@ -242,6 +244,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
