@@ -56,6 +56,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -267,6 +268,7 @@
 | [0410-split-array-largest-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
 |  |
 | ------- |
