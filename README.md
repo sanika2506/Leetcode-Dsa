@@ -180,6 +180,7 @@
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0509-fibonacci-number) |
 | [1399-count-largest-group](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1399-count-largest-group) |
+| [1486-xor-operation-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -408,6 +409,7 @@
 | [0137-single-number-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0461-hamming-distance) |
+| [1486-xor-operation-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1486-xor-operation-in-an-array) |
 ## Trie
 |  |
 | ------- |
