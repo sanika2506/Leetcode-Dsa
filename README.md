@@ -134,6 +134,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0875-koko-eating-bananas) |
@@ -177,6 +178,7 @@
 | [0263-ugly-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0509-fibonacci-number) |
 | [1399-count-largest-group](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1399-count-largest-group) |
