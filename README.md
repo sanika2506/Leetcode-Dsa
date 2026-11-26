@@ -113,6 +113,7 @@
 | [0566-reshape-the-matrix](https://github.com/sanika2506/Leetcode-Dsa/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
@@ -185,6 +186,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/sanika2506/Leetcode-Dsa/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/sanika2506/Leetcode-Dsa/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3360-stone-removal-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sanika2506/Leetcode-Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
